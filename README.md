@@ -86,6 +86,15 @@ AIの動作基盤である「安全性・法令遵守」を論理の不動点（
 
 ## 🤝 貢献と実装 (Contributing)
 Python実装やAPIテスト環境の構築など、協力を歓迎します。
+---
+
+## 🤝 Community & Contributions
+
+This protocol is designed to be a living framework. We are actively looking for contributors to define domain-specific scoring metrics (e.g., Code generation, Healthcare, Legal) and to refine the logical constraints.
+
+If you have tested this protocol, customized it for your use case, or encountered a case where the AI failed to maintain logical maturity, **please open an [Issue](https://github.com/Weed-eater575/Logical-Maturity-Scale-LMS-Implementation-Protocol-v1.1/issues) or start a [Discussion](https://github.com/Weed-eater575/Logical-Maturity-Scale-LMS-Implementation-Protocol-v1.1/discussions).** 
+
+Your real-world test results and feedback are the best data to improve this protocol. I will list the most interesting/logical use cases and findings here to share with the community.
 
 ## 📜 License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
