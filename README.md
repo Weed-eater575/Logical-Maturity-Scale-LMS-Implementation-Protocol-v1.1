@@ -111,3 +111,12 @@ Your real-world test results and feedback are the best data to improve this prot
 
 ## 📜 License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+## 📬 Contributing & Contact
+
+We welcome all kinds of feedback, bug reports, and structural ideas! Since this protocol thrives on logical consistency, your real-world test cases are invaluable.
+
+* **Bug Reports & Feature Requests:** Please open an [Issue](https://github.com/Weed-eater575/Logical-Maturity-Scale-LMS-Implementation-Protocol-v1.1/issues).
+* **Discussions & Ideas:** Join our community in the [Discussions](https://github.com/Weed-eater575/Logical-Maturity-Scale-LMS-Implementation-Protocol-v1.1/discussions) tab to share your scoring setups or benchmark results.
+
+*Note: We do not accept support requests via personal email. Let's keep the logic open and transparent in the Issues! ⚖️*
